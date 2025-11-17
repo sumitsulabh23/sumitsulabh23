@@ -1,19 +1,19 @@
-<!-- =========================================== -->
-<!--            HEADER WITH ANIMATION            -->
-<!-- =========================================== -->
+<!-- ===================== HEADER ========================= -->
 
 <div align="center">
 
-<h1 style="font-size:40px; font-weight:800;">
-<span style="color:#00E5FF; text-shadow:0 0 8px #00E5FF;">Sumit</span>
-<span style="color:#39FF14; text-shadow:0 0 12px #39FF14;">Sulabh</span>
+<!-- Name with neon glow -->
+<h1 style="font-size:38px; font-weight:800;">
+<span style="color:#00E5FF; text-shadow:0 0 10px #00E5FF;">Hi, I'm</span>
+<span style="color:#39FF14; text-shadow:0 0 12px #39FF14;">Sumit Sulabh</span>
 </h1>
 
-<!-- Animated Cybersecurity (Green Neon) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=39FF14&center=true&vCenter=true&width=500&lines=Cybersecurity+Student" />
-
-<!-- Animated Full Stack (Red) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=FF3131&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" />
+<!-- One line role -->
+<h3 style="color:#39FF14; font-weight:600; text-shadow:0 0 8px #39FF14;">
+Cybersecurity Student 
+<span style="color:#ffffff;">/</span>
+<span style="color:#FF3131; text-shadow:0 0 8px #FF3131;">Full Stack Developer</span>
+</h3>
 
 </div>
 
@@ -21,9 +21,7 @@
 
 <br>
 
-<!-- =========================================== -->
-<!--                  MAIN CARD                  -->
-<!-- =========================================== -->
+<!-- ===================== MAIN CARD ========================= -->
 
 <div align="center">
 
@@ -31,29 +29,35 @@
 <tr>
 <td>
 
-<!-- CONNECT SECTION -->
+<!-- CONNECT WITH ME -->
 <h3>🔗 Connect With Me</h3>
 
-<p align="left">
+<p align="center">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/sumit-sulabh/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
 </a>
 
-<!-- HackerRank (Perfect Icon) -->
+&nbsp;&nbsp;
+
+<!-- HackerRank (perfect clean icon) -->
 <a href="https://www.hackerrank.com/profile/officialsumit007" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" width="40px"/>
 </a>
 
-<!-- LeetCode -->
-<a href="https://leetcode.com/u/sumitsulabh/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="40px"/>
-</a>
+&nbsp;&nbsp;
 
 <!-- GitHub -->
 <a href="https://github.com/sumitsulabh23" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="40px"/>
+</a>
+
+&nbsp;&nbsp;
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/sumitsulabh/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="40px"/>
 </a>
 
 </p>
@@ -63,7 +67,7 @@
 <!-- LANGUAGES & TOOLS -->
 <h3>💻 Languages & Tools</h3>
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux" height="45px"/>
 </p>
 
@@ -72,7 +76,7 @@
 <!-- CYBER TOOLS -->
 <h3>🛡️ Cybersecurity Tools</h3>
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Parrot_OS-1ABC9C?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-2E8B57?style=flat-square&logo=nmap&logoColor=white" />
